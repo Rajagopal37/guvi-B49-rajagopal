@@ -1,3 +1,9 @@
 Raja
 Gopal
 guvi b49
+
+
+
+git config --global user.email "trajagopal@email.com"
+
+git config --global user.name "Rajagopal37"
